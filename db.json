@@ -1,0 +1,185 @@
+{
+  "checkin": [
+    {
+      "id": "bf34",
+      "checkIn": "2024-03-14",
+      "checkOut": "20:10",
+      "adult": "2",
+      "child": "2"
+    }
+  ],
+  "staff": [
+    {
+      "id": "1",
+      "url": "/public/image/team-1.jpg",
+      "name": "John Dam",
+      "designation": "Receptionist"
+    },
+    {
+      "id": "2",
+      "url": "/public/image/team-2.jpg",
+      "name": "Sam Votson",
+      "designation": "Hotel Manager"
+    },
+    {
+      "id": "3",
+      "name": "Patel Raj",
+      "url": "/public/image/team-3.jpg",
+      "designation": "BellBoy"
+    },
+    {
+      "id": "4",
+      "name": "Dev Raman",
+      "url": "/public/image/team-4.jpg",
+      "designation": "Accounant"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "icon": "room",
+      "title": "Room & Appartment",
+      "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit dipisicing. Iusto expedita dipisicing  dolor sit amet."
+    },
+    {
+      "id": "2",
+      "icon": "food",
+      "title": "Food & Restruant",
+      "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit dipisicing. Iusto expedita dipisicing  dolor sit amet."
+    },
+    {
+      "id": "3",
+      "icon": "spa",
+      "title": "Spa & Fitness",
+      "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit dipisicing. Iusto expedita dipisicing  dolor sit amet."
+    },
+    {
+      "id": "4",
+      "icon": "sports",
+      "title": "Sports & Gaming",
+      "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit dipisicing. Iusto expedita dipisicing  dolor sit amet."
+    },
+    {
+      "id": "5",
+      "icon": "party",
+      "title": "Event & Party",
+      "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit dipisicing. Iusto expedita dipisicing  dolor sit amet."
+    },
+    {
+      "id": "6",
+      "icon": "gym",
+      "title": "Gym & Yoga",
+      "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit dipisicing. Iusto expedita dipisicing  dolor sit amet."
+    }
+  ],
+  "rooms": [
+    {
+      "id": "1",
+      "url": "/public/image/room-1.jpg",
+      "title": "Junior Suite",
+      "price": 80,
+      "rating": 3,
+      "bed": 1,
+      "bath": 1,
+      "body": "Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem."
+    },
+    {
+      "id": "2",
+      "url": "/public/image/room-2.jpg",
+      "title": "Executive Suite",
+      "price": 100,
+      "rating": 4,
+      "bed": 2,
+      "bath": 1,
+      "body": "Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem."
+    },
+    {
+      "id": "3",
+      "url": "/public/image/room-3.jpg",
+      "title": "Super Delux",
+      "price": 150,
+      "rating": 5,
+      "bed": 3,
+      "bath": 2,
+      "body": "Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem."
+    },
+    {
+      "id": "4",
+      "url": "/public/image/room-2.jpg",
+      "title": "Executive Suite",
+      "price": 100,
+      "rating": 4,
+      "bed": 2,
+      "bath": 1,
+      "body": "Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem."
+    },
+    {
+      "id": "5",
+      "url": "/public/image/room-3.jpg",
+      "title": "Super Delux",
+      "price": 150,
+      "rating": 5,
+      "bed": 3,
+      "bath": 2,
+      "body": "Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem."
+    },
+    {
+      "id": "6",
+      "url": "/public/image/room-1.jpg",
+      "title": "Junior Suite",
+      "price": 80,
+      "rating": 3,
+      "bed": 1,
+      "bath": 1,
+      "body": "Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem."
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "1",
+      "url": "/public/image/testimonial-1.jpg",
+      "name": "Jeeny Deep",
+      "body": "Pariatur,. Beatae accusamus earum quos obcaecati minima molestias. Possimus minima dolores itaque! Esse! Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea voluptates fugiat corrupti laudantium dolores reiciendis pariatur esse quod nihil quia cupiditate debitis quisquam nemo, accusamus animi explicabo? Architecto, unde laboriosam?"
+    },
+    {
+      "id": "2",
+      "url": "/public/image/testimonial-2.jpg",
+      "name": "John Dew",
+      "body": "Pariatur,. Beatae accusamus earum quos obcaecati minima molestias. Possimus minima dolores itaque! Esse! Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea voluptates fugiat corrupti laudantium dolores reiciendis pariatur esse quod nihil quia cupiditate debitis quisquam nemo, accusamus animi explicabo? Architecto, unde laboriosam?"
+    },
+    {
+      "id": "3",
+      "url": "/public/image/testimonial-4.jpg",
+      "name": "Devi Methu",
+      "body": "Pariatur,. Beatae accusamus earum quos obcaecati minima molestias. Possimus minima dolores itaque! Esse! Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea voluptates fugiat corrupti laudantium dolores reiciendis pariatur esse quod nihil quia cupiditate debitis quisquam nemo, accusamus animi explicabo? Architecto, unde laboriosam?"
+    }
+  ],
+  "newsletter": [
+    {
+      "id": "b891",
+      "email": "rajarshi0303@gmail.com"
+    }
+  ],
+  "Booking": [
+    {
+      "id": "179e",
+      "name": "Rajarshi Software Engineer Patel",
+      "email": "rajarshi0303@gmail.com",
+      "checkin": "2024-04-02T20:45",
+      "checkout": "2024-04-02T20:45",
+      "adult": "2",
+      "child": "3",
+      "room": "2",
+      "message": "Good bed"
+    }
+  ],
+  "contact": [
+    {
+      "id": "2687",
+      "name": "Rajarshi Software Engineer Patel",
+      "email": "rajarshi0303@gmail.com",
+      "subject": "Hello",
+      "message": "fgfgfgfgffghf"
+    }
+  ]
+}
