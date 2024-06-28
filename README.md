@@ -3,8 +3,8 @@
 Welcome to React Hotelier, a modern and responsive hotel website built with React. This project offers a range of features to enhance the user experience, including an about page, services, rooms, a detailed room page, a contact form, and booking functionality.
 
 <p float="left">
-<img src="https://github.com/rajarshi0303/React-Hotelier/assets/128988468/2f953516-3349-432d-9f0a-efe179fa4af3" width="420" height="500" hspace="5" />
-<img src="https://github.com/rajarshi0303/React-Hotelier/assets/128988468/48783a96-0c98-4b1f-bc76-d00185083e2a" width="370" height="500" />
+<img src="https://github.com/rajarshi0303/React-Hotelier/assets/128988468/2f953516-3349-432d-9f0a-efe179fa4af3" width="420" height="450" hspace="5" />
+<img src="https://github.com/rajarshi0303/React-Hotelier/assets/128988468/48783a96-0c98-4b1f-bc76-d00185083e2a" width="370" height="450" />
 <p>
 <img src="https://github.com/rajarshi0303/React-Hotelier/assets/128988468/3336969a-a3ab-4a6d-80b9-3e46528d382c" width="430" height="450" hspace="5" />
 <img src="https://github.com/rajarshi0303/React-Hotelier/assets/128988468/95ebf3fe-9434-4ba5-875f-3e4d610c9e60" width="360" height="450"  />
